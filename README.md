@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Dilan Sriyantha, a passionate undergraduate st
 - **Tools & Technologies:** Unity, Unreal Engine, Git, Visual Studio Code
 
 ### 📚 Education:
-- **Current:** Pursuing [Your Degree] at [Your University]
+- **Current:** Pursuing BSc.(Hons) in Computer Science and Software Engineering at University of Bedfordshire.
 
 ### 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/dilan-sriyantha-thudugala-9789402a3/)
